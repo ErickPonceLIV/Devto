@@ -1,0 +1,93 @@
+.container_header{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    padding: 10px;
+    width: 100%;
+    height: 56px;
+    border: 1px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    }
+    
+    .dev_icon{
+        width: 50px;
+        height: 40px;
+    }
+    
+    input{
+        height: 40px;
+        width: 420px;
+    }
+    
+    .log_container
+       {height: 100px;
+        border: 1px solid black;
+        width: 100px;
+    
+    }
+    
+.container_page{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    width: 1629pxpx;
+    height: 300px;
+    margin-top: 13px;
+    box-sizing: border-box;
+    padding: 16px;
+    }
+    
+    .aside_left{
+        border: 1px border black;
+        height: 7108.22px;
+        width: 26%;
+        background-color: yellow;
+         margin-left: 43px;
+        }
+
+      .aside_right{
+        border: 1px border black;
+        height: 7108.22px;
+        width: 68%;
+        background-color: yellow;
+        margin-right: 27px;        
+            }
+
+    .listings_header{
+        margin-top: 97px;
+        margin-left: 59px;
+        border: 1px solid black;
+        width: 94%;
+        height: 61px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .button_top{
+    display: flex;
+    width: 136px;
+    }
+
+
+    .first_post{
+        border: 1px solid black;
+        width: 450px;
+        height: 281px;
+       
+    }
+
+    .second_post{
+        border: 1px solid black;
+        width: 450px;
+        height: 281px;
+    }
+
+    .third_post{
+        border: 1px solid black;
+        width: 450px;
+        height: 281px;
+    
+    }
